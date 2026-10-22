@@ -17,4 +17,4 @@ More reports will be added as I finish them.
 - A sources list so every claim can be checked
 
 ## Contact
-[Linkedln](./www.linkedin.com/in/okunnuwa-joshua-godwin)
+OKUNNUWA JOSHUA GODWIN | [Linkedln](./www.linkedin.com/in/okunnuwa-joshua-godwin)
