@@ -6,7 +6,7 @@ Independent, open-source threat intelligence briefs by OKUNNUWA JOSHUA GODWIN. E
 
 | Actor | Type | Report | Date |
 |---|---|---|---|
-| [Scattered Spider](./01_Scattered-Spider/) | Financially motivated | 2-page brief and extended report | Oct 2026 |
+| [Scattered Spider](./01_Scattered_Spider/) | Financially motivated | 2-page brief and full technical report | Oct 2026 |
 
 More reports will be added as I finish them.
 
@@ -17,4 +17,4 @@ More reports will be added as I finish them.
 - A sources list so every claim can be checked
 
 ## Contact
-OKUNNUWA JOSHUA GODWIN | [Linkedln](./www.linkedin.com/in/okunnuwa-joshua-godwin)
+OKUNNUWA JOSHUA GODWIN | [LinkedIn](https://www.linkedin.com/in/okunnuwa-joshua-godwin)
