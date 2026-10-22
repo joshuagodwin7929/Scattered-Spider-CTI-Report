@@ -1,2 +1,18 @@
-# Threat-intel-report-Scattered-spider-
-Two-page threat intelligence brief on Scattered Spider (UNC3944): TTPs mapped to MITRE ATT&amp;CK, key incidents, and detection and defense guidance. Built from open-source reporting.
+# Scattered Spider Threat Intelligence Brief
+
+A two-page CTI brief on Scattered Spider (UNC3944), built from open-source reporting and mapped to MITRE ATT&CK.
+
+## What's inside
+- Actor profile and key incidents
+- Tradecraft and 14 mapped ATT&CK techniques
+- Detection and defense recommendations
+- Sourced references
+
+## Read the report
+[CTI_Brief_Scattered_Spider.pdf](./CTI_Brief_Scattered_Spider_By_OKUNNUWA_JO....pdf)
+
+## Method
+Compiled from CISA/FBI advisory AA23-320A, MITRE ATT&CK G1015 (v17), and public vendor and press reporting. Classification: TLP:CLEAR.
+
+## Author
+OKUNNUWA JOSHUA GODWIN| www.linkedin.com/in/okunnuwa-joshua-godwin
