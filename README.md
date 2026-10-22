@@ -9,7 +9,7 @@ A two-page CTI brief on Scattered Spider (UNC3944), built from open-source repor
 - Sourced references
 
 ## Read the report
-[CTI_Brief_Scattered_Spider.pdf](./CTI_Brief_Scattered_Spider_By_OKUNNUWA_JO....pdf)
+[CTI_Brief_Scattered_Spider.pdf](./CTI_Brief_Scattered_Spider_By_OKUNNUWA_JOSHUA_GODWIN.pdf)
 
 ## Method
 Compiled from CISA/FBI advisory AA23-320A, MITRE ATT&CK G1015 (v17), and public vendor and press reporting. Classification: TLP:CLEAR.
